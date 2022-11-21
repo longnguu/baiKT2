@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "364194286313",
+    "project_id": "baikt2",
+    "storage_bucket": "baikt2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364194286313:android:cfb512421316bbf45bbe78",
+        "android_client_info": {
+          "package_name": "com.example.a2050531200222_levanlong_baikt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364194286313-252uts80dlt810gmrrger3iior9f0opm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a2050531200222_levanlong_baikt2",
+            "certificate_hash": "9c3ccefb4ebaa81fd905a3891f3e88540ddf42fb"
+          }
+        },
+        {
+          "client_id": "364194286313-n9ovm487m55e442teb28vupevqi594hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsmzHp74XyGvMgA568aLXei5zhL4PdIIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364194286313-n9ovm487m55e442teb28vupevqi594hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
